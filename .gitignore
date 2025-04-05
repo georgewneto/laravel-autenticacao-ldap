@@ -1,11 +1,10 @@
-/.phpunit.cache
+/vendor/
 /node_modules
 /public/build
 /public/hot
 /public/storage
 /storage/*.key
 /storage/pail
-/vendor
 .env
 .env.backup
 .env.production
@@ -25,3 +24,5 @@ yarn-error.log
 *.log
 .DS_Store
 Thumbs.db
+/.vagrant
+/.phpunit.cache

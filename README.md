@@ -14,8 +14,8 @@ Este projeto é um sistema de autenticação desenvolvido com Laravel e React, q
 
 1. Clone o repositório:
 ```bash
-git clone [URL_DO_REPOSITÓRIO]
-cd [NOME_DO_DIRETÓRIO]
+git clone https://github.com/georgewneto/laravel-autenticacao-ldap.git
+cd laravel-autenticacao-ldap
 ```
 
 2. Instale as dependências do PHP:
