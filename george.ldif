@@ -1,0 +1,12 @@
+dn: cn=george,dc=example,dc=org
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+cn: george
+sn: Wneto
+uid: george
+uidNumber: 1000
+gidNumber: 1000
+homeDirectory: /home/george
+userPassword: kakaroto
+mail: george@example.org 
